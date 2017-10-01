@@ -1,0 +1,3 @@
+# AutomaticTesting
+
+Kursuse Automaattestimine projekt
